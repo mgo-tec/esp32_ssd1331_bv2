@@ -1,0 +1,52 @@
+#############################################
+# Syntax Coloring Map For ESP32_SSD1331_BV2 #
+#############################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+esp32_ssd1331_bv2	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+#Class
+Esp32Ssd1331Bv2	KEYWORD2
+
+#Functions
+init	KEYWORD2
+init65kColor	KEYWORD2
+writeSpiCommand	KEYWORD2
+writeSpiData	KEYWORD2
+writeSpiCommandBytes	KEYWORD2
+writeSpiDataBytes	KEYWORD2
+brightness	KEYWORD2
+brightnessFadeIn	KEYWORD2
+brightnessFadeOut	KEYWORD2
+clearDisplay	KEYWORD2
+copyDisplay	KEYWORD2
+displayFont8x16	KEYWORD2
+displaySizeUpFont8x16	KEYWORD2
+displayHVsizeUpFont8x16	KEYWORD2
+displayFont8x8	KEYWORD2
+VscrollFont16x16	KEYWORD2
+HscrollFont16x16	KEYWORD2
+drawPixel256color	KEYWORD2
+drawPixel65kColor	KEYWORD2
+drawPixel65kColor2	KEYWORD2
+drawPixel65kColorBytes	KEYWORD2
+drawLine	KEYWORD2
+drawRectangleLine	KEYWORD2
+drawRectangleFill	KEYWORD2
+drawCircleLine256Color	KEYWORD2
+drawCircleLine65kColor	KEYWORD2
+drawCircleFill	KEYWORD2
+scrollFont8x16RtoL	KEYWORD2
+scrollFont8x16RtoL4Line	KEYWORD2
+scrollSizeUpFont8x16RtoL	KEYWORD2
+scrollHVSizeUpFont8x16RtoL	KEYWORD2
+copyScrollSizeUp	KEYWORD2
+copyScroll	KEYWORD2
+VscrollHVSizeUpFont16x16	KEYWORD2
+copyVscrollSizeUpFont	KEYWORD2
